@@ -37,7 +37,7 @@ connectedCallback() {
     <header>
       <div class="navbar">
       <a href="index.html"><i class="fa-solid fa-house"></i> Home</a>
-      <a href="about.html"><i class="fa-solid fa-school-flag"></i>  Activites </a>
+      <a href="about.html"><i class="fa-solid fa-school-flag"></i>  About </a>
       <a href="contact-us.html"><i class="fa-solid fa-envelope"></i> Contact </a> 
       <a href="#" class="right">Link</a>
      </div>
